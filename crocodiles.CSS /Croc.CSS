@@ -84,10 +84,10 @@ ul li{
     color: #00bac7b7;
 }
 a:hover{
-    color: rgba(18, 18, 199, 0.726);
+    color: #1212c7b9;
 }
 a.visited{
-    color: rgba(124, 11, 230, 0.664);
+    color: #7c0be6a9;
 }
 /*images*/
 img{ 
