@@ -21,9 +21,9 @@
 }
 /*default styles for whole group*/ 
 body{
-    color: black;
-    border-color: black;
-    background-color: beige;
+    color: #000000;
+    border-color: #000000;
+    background-color: #f5f5dc;
 }
 /*content container to centre content*/
 .container {
