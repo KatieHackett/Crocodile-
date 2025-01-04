@@ -13,9 +13,9 @@
 .grid-col-third{
     flex-basis: 66.66%;
 }
-.colour-block {
-    padding: 0;
-    margin: 0;
+.grid-col-twoThirds{
+    padding: 15;
+    margin: 5;
     font-size: 100%;
     line-height: 1em;
 }
