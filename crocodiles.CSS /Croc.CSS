@@ -25,6 +25,10 @@ body{
     color: #e4c4a9;
     border-color: #000000;
     background-color: #e0954e;
+    .container{ 
+        max-width: 1020px;
+        margin: 0 auto 0 auto;
+    }
 }
 
 /*content container to centre content*/
