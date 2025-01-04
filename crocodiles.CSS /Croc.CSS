@@ -22,11 +22,11 @@
 
 /*default styles for whole group*/ 
 body{
-    color: #e4c4a9;
+    color: #f5bc8d;
     border-color: #000000;
-    background-color: #e0954e;
+    background-color: #85501f;
     .container{ 
-        max-width: 1020px;
+        max-width: 1000px;
         margin: 0 auto 0 auto;
     }
 }
