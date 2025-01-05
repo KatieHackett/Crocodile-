@@ -40,6 +40,10 @@ body{
     width: 100%;
     margin: 1rem auto 0 auto;
 }
+.section p{
+    color: #f5bc8d;
+    margin-right: 15px;
+}
 /*content container to centre content*/
 .container {
     max-width: 1020px;
