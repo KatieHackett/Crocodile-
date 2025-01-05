@@ -129,6 +129,15 @@ img{
 .img-mountaintrees2:hover{
     background-size: 100%;
 }
+.img-redleaves2{
+    width: 300px;
+}
+.img-colourfulleaves2{
+    width: 300px;
+}
+.img-forest2{
+    width: 300px;
+}
 
 /*blockcode*/
 figure.quote {
