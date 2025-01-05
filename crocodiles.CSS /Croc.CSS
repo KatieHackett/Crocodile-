@@ -14,6 +14,9 @@
     flex-basis: 66.66%;
 }
 .grid-col-twoThirds{
+    flex-basis: 33.33%;
+}
+*{
     padding: 15;
     margin: 5;
     font-size: 100%;
