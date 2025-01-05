@@ -126,10 +126,10 @@ img{
     border: 1px solid #101010;
     margin-bottom: 2rem;
 }
-.img-mountaintrees2{
-    width: 300px;
+.img-IMG_0517{
+    width: 200px;
 }
-.img-mountaintrees2{
+.img-IMG_0517{
     width: 200px;
     height: 100px;
     background-image: url(images/IMG_0517.jpeg);
@@ -137,17 +137,28 @@ img{
     background-repeat: no-repeat;
     background-position: center;
 }
-.img-mountaintrees2:hover{
+.img-IMG_0517:hover{
     background-size: 100%;
 }
-.img-redleaves2{
+.img-IMG_0518{
     width: 200px;
+    height:100px
 }
-.img-colourfulleaves2{
+.img-IMG_0519{
     width: 200px;
+    height: 100px;
 }
-.img-forest2{
+.img-IMG_0520{
     width: 200px;
+    height: 100px;
+}
+.img-IMG_0521{
+    width: 200px;
+    height: 100px;
+}
+.img-IMG_0522{
+    width:200px;
+    height: 100px;
 }
 
 /*blockcode*/
