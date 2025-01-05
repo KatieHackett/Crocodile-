@@ -42,6 +42,7 @@ body{
 .section p{
     color: #f5bc8d;
     margin-right: 15px;
+    margin-left: 15px;
 }
 /*content container to centre content*/
 .container {
